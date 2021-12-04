@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MayurSMahajan
 - 👀 I’m interested in Web development, App development and Data Science
-- 🌱 I’m currently learning Backend Development
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on ...
-- 📫 Find me at mayur23smahajan@gmail.com
+- 📫 Find me at https://mayurmahajan.netlify.app/
 
 <!---
 MayurSMahajan/MayurSMahajan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
