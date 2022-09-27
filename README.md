@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MayurSMahajan
 - 👀 I’m interested in Web development, App development and WEB3.0
-- 🌱 I’m currently learning Flutter Development and WEB3.0
-- 💞️ I’m looking to collaborate on everything I can
+- 🌱 I’m currently learning Flutter Development Architecture and Clean Code
+- 💞️ I’m looking to collaborate on Flutter Development
 - 📫 Find me at https://mayurmahajan.netlify.app/
 
 <!---
