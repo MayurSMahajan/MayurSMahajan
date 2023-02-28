@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on [Queries.AI](https://github.com/MayurSMahajan/Queries.AI)
 
-- 🌱 I’m currently learning **Postgres and Rust**
+- 🌱 I’m currently learning **Postgres and CI/CD**
 
 - 👯 I’m looking to collaborate on **Flutter, Android and Web Development**
 
-- 💬 Ask me about **Flutter, Figma, Android, DSA**
+- 💬 Ask me about **Flutter, Figma, anything you want**
 
 - 📫 How to reach me **mayur23smahajan@gmail.com**
 
