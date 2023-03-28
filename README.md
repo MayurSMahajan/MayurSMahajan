@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Queries.AI](https://github.com/MayurSMahajan/Queries.AI)
 
-- 🌱 I’m currently learning **Postgres and CI/CD**
+- 🌱 I’m currently learning **React State Management**
 
 - 👯 I’m looking to collaborate on **Flutter and Web Development**
 
