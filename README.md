@@ -6,9 +6,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayursmahajan&" alt="mayursmahajan" /></p>
 
 
-- 🔭 I’m currently working on [Queries.AI](https://github.com/MayurSMahajan/Queries.AI)
+- 🔭 I’m currently working on [CodeBlock]([(https://github.com/MayurSMahajan/code_block)])
 
-- 🌱 I’m currently learning **React State Management**
+- 🌱 I’m currently learning **Java Spring**
 
 - 👯 I’m looking to collaborate on **Flutter and Web Development**
 
