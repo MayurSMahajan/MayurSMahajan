@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayur! 🧑🏽‍💻 </h1>
-<h3 align="center">I love writing code</h3>
+<h3 align="center">I love playing with tech</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayursmahajan&show_icons=true&locale=en" alt="mayursmahajan" /></p>
 
@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on [CodeBlock](https://github.com/MayurSMahajan/code_block)
 
-- 🌱 I’m currently learning **Java Spring**
+- 🌱 I’m currently learning **Next JS**
 
 - 👯 I’m looking to collaborate on **Flutter and Web Development**
 
-- 💬 Ask me about **Football, Chess, Cricket, Software Development, or ANYTHING!**
+- 💬 Always up for talking about one of these: **Football, Chess, Cricket, Software Development, or ANYTHING!**
 
 - 📫 How to reach me **mayur23smahajan@gmail.com**
 
