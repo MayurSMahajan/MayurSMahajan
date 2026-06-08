@@ -6,7 +6,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayursmahajan&" alt="mayursmahajan" /></p>
 
 
-- 🔭 I’m currently working on [PropHunt.ai](https://www.prophunt.ai/)
+- 🔭 I’m currently working on [AppFlowy](https://github.com/AppFlowy-IO)
 
 - 🌱 I’m currently learning **Next JS**
 
